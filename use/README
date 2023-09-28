@@ -1,0 +1,4 @@
+custom-portage-2023-09-24  --> working set  --> used chroot and then manually updated at end of file and changed python10 to python11 with temp. script
+chroot_use  --> created on stage3 chroot with travel_use not quite correct
+travel_packages.txt  --> created from travel os because its the os that i want
+travel_use  --> created from travel host because its the os that i want

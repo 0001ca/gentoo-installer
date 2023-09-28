@@ -1,0 +1,27 @@
+lxqt-base/lxqt-meta
+x11-base/xorg-server
+app-editors/juffed
+app-admin/sudo
+x11-misc/slim
+net-misc/networkmanager
+sys-fs/btrfs-progs
+net-fs/cifs-utils 
+sys-fs/cryptsetup
+app-shells/dash
+#sys-apps/busybox for Allows use of busybox instead of default bash (on your own risk)
+sys-block/open-iscsi
+sys-fs/lvm2
+sys-fs/mdadm
+sys-fs/dmraid
+sys-fs/multipath-tools
+#>=sys-boot/plymouth-0.8.5-r5 for Plymouth boot splash
+sys-block/nbd 
+net-fs/nfs-utils 
+net-nds/rpcbind 
+#app-admin/rsyslog for Enable logging with rsyslog
+sys-fs/squashfs-tools 
+app-crypt/tpm2-tools  
+net-wireless/bluez 
+sys-apps/biosdevname 
+sys-apps/nvme-cli 
+#sys-apps/rng-tools
