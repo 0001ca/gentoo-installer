@@ -9,7 +9,7 @@ To install Gentoo using this script, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/tylerapohl/gentoo-installer.git
+   git clone https://github.com/0001ca/gentoo-installer.git
    ```
 
 2. Navigate to the project directory:
