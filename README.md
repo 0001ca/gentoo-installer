@@ -20,21 +20,21 @@ To install Gentoo using this script, follow these steps:
 
 3. Run the installer script with your desired configuration. Here are some available options:
 
-   - **Custom Stage3 Tarball**: Use the `-s` or `--stage3` option to specify a custom Stage3 tarball.
+   Use the `-s` or `--stage3` option to specify a custom Stage3 tarball.
 
-   - **Custom Package Use Flags**: Use the `-f` or `--flags` option to specify custom package.use flags.
+   Use the `-f` or `--flags` option to specify custom package.use flags.
 
-   - **Custom Package Set**: Use the `-p` or `--packageset` option to specify a custom package set.
+   Use the `-p` or `--packageset` option to specify a custom package set.
 
-   - **Binary Package Host**: Use the `-b` or `--binpkgs` option to specify the binpkg host.
+   Use the `-b` or `--binpkgs` option to specify the binpkg host.
 
-   - **Repository URL**: Use the `-r` or `--repo` option to specify a repository URL.
+   Use the `-r` or `--repo` option to specify a repository URL.
 
-   - **Portage Tree Snapshot**: Use the `-t` or `--portagetree` option to specify a custom portage tree snapshot (*.tar.bz2).
+   Use the `-t` or `--portagetree` option to specify a custom portage tree snapshot (*.tar.bz2).
 
-   - **Verbose Mode**: Use the `-v` or `--verbose` option to enable verbose mode for more detailed output.
+   Use the `-v` or `--verbose` option to enable verbose mode for more detailed output.
 
-   - **Help Message**: Use the `-h` or `--help` option to display this help message.
+   Use the `-h` or `--help` option to display this help message.
 
 ## Usage
 
